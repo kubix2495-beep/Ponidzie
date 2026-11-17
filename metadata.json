@@ -1,0 +1,6 @@
+{
+  "name": "Przewodnik po Ponidziu",
+  "description": "Wirtualny przewodnik po Ponidziu (Pińczów, Busko-Zdrój, Wiślica, Jędrzejów, Nowy Korczyn, Solec-Zdrój) z archiwum opowieści głosowych i automatyczną transkrypcją.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
